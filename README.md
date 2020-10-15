@@ -5,11 +5,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&labelColor=23E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas_sanri/)](https://www.instagram.com/lucas_sanri/)  
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasRibeiroRJBR&repo=Validador_CPF_Python)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasRibeiroRJBR&repo=Anasig)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasRibeiroRJBR&repo=MultiLang-Areas)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasRibeiroRJBR&repo=Quadros_Magicos)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasRibeiroRJBR&repo=LanGlot)  
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LucasRibeiroRJBR)  
 
